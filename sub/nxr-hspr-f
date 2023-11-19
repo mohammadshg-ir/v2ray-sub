@@ -1,0 +1,3 @@
+vless://75962cd7-f14b-4e82-aee7-78d4be0dbb5d@ir.chals.fun:8443?encryption=none&security=tls&sni=IR-NetXray.chals.fun&type=ws&host=IR-NetXray.chals.fun&path=%2FNetXray#MTN-hspr
+
+vless://75962cd7-f14b-4e82-aee7-78d4be0dbb5d@m-netxray.ddns.net:8443?encryption=none&security=tls&sni=NetXray.chals.online&type=ws&host=NetXray.chals.online&path=%2FNetXray#MCI-hspr
